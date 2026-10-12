@@ -1,4 +1,4 @@
-# Aprendendo Spring Boot - API de Usuários
+#  Aprendendo Spring Boot - API de Usuários
 
 Projeto desenvolvido com foco em aprendizado prático de **Java + Spring Boot**, aplicando conceitos de arquitetura em camadas, segurança com JWT e boas práticas de desenvolvimento backend.
 
